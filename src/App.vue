@@ -1,9 +1,10 @@
 <script setup>
+import ToDoList from "./components/ToDoList.vue";
 </script>
 
 <template>
   <main>
-    <div>Hello World</div>
+    <ToDoList />
   </main>
 </template>
 
